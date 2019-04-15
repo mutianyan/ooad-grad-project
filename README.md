@@ -41,3 +41,7 @@ Run the main function in `CompositePatternDemo` class.
 ## Citation
 Some of the code examples are modified from TutorialPoint, GeeksForGeeks website.
 
+- <https://www.geeksforgeeks.org/singleton-class-java/>
+- <https://www.tutorialspoint.com/design_pattern/composite_pattern.htm>
+- Dalibor Nasevic. “Ruby Singleton Pattern.” Dalibor Nasevic, 2018, dalibornasevic.com/posts/9-ruby-singleton-pattern-again.
+
