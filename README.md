@@ -15,6 +15,19 @@ We compared the two languages from the syntactic differences to the level of app
 
 ### Ruby
 
+##### Syntax part
+
+Run the `tall-for.rb` with command `ruby tally-for.rb < xref.1`; 
+Run the `tall-while.rb` with command `ruby tall-while.rb < xref.1`; 
+
+##### Singleton part
+
+Run the `logger.rb` with command `ruby logger.rb`
+
+##### Composite part
+
+Run the `composite.rb` with command `ruby composite.rb`
+
 ### Java
 
 ##### Singleton part
@@ -24,3 +37,7 @@ Simply run the main function in `Main` class.
 ##### Composite part
 
 Run the main function in `CompositePatternDemo` class.
+
+## Citation
+Some of the code examples are modified from TutorialPoint, GeeksForGeeks website.
+
